@@ -308,6 +308,34 @@
         <mxCell id="PUsAC2bPZzbohQSxc9YF-103" value="&lt;font color=&quot;#fffffc&quot;&gt;END OF GAME&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="600" y="670" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="PUsAC2bPZzbohQSxc9YF-104" value="PLAYER HITS REST BUTTON" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="195" y="730" width="250" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="PUsAC2bPZzbohQSxc9YF-106" value="yes" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=top;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" source="PUsAC2bPZzbohQSxc9YF-108" parent="1">
+          <mxGeometry x="-1" relative="1" as="geometry">
+            <mxPoint x="20" y="875" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PUsAC2bPZzbohQSxc9YF-107" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0.471;entryY=0.991;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="20" y="880" as="sourcePoint" />
+            <mxPoint x="130" y="680" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-90" y="730" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PUsAC2bPZzbohQSxc9YF-109" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=top;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" parent="1" source="PUsAC2bPZzbohQSxc9YF-104" target="PUsAC2bPZzbohQSxc9YF-108">
+          <mxGeometry x="-1" relative="1" as="geometry">
+            <mxPoint x="20" y="875" as="targetPoint" />
+            <mxPoint x="195" y="875" as="sourcePoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PUsAC2bPZzbohQSxc9YF-108" value="RESET" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="72.5" y="855" width="89" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
