@@ -10,3 +10,4 @@ Timer, Towers, Amount of Rings, Best move counter, Reset Button Valid Move, Play
 - If  at any point the user wants to reset the game they will be returned to the selection of rings by hitting the reset button displayed on the UI
 - Best Move Counter shows the minimum amount of moves needed to complete the puzzle on the selected amount of rings
 - Future / Possible additions to this would be a Hint button and Colors to the Rings
+- The first time I wrote this out, I did not know we had to press the " Commit Changes " button to save so I lost the original documentation.
